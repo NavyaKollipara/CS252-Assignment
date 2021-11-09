@@ -14,4 +14,4 @@ The program will then create an ordinary pipe and write the contents of the file
 
 ### For example, if we invoke the program as follows:
           ./filecopy input.txt copy.txt
-The file `input.txt` will be written to the pipe. The child process will read the contents of this file and write it to the destination `file copy.txt`.
+The file `input.txt` will be written to the pipe. The child process will read the contents of this file and write it to the destination file `copy.txt`.
