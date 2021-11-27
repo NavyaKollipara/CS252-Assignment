@@ -23,7 +23,7 @@ The program will then create an ordinary pipe and write the contents of the file
           ./filecopy input.txt copy.txt
 The file `input.txt` will be written to the pipe. The child process will read the contents of this file and write it to the destination file `copy.txt`.
 
-## References
+## Credits
 [Question-1](https://www.youtube.com/watch?v=8Q9CPWuRC6o)
 
 [Question-2](https://quizlet.com/explanations/questions/design-a-file-copying-program-named-filecopy-using-ordinary-pipes-5c666834-900f-40e4-9229-79276f3dc97b)
